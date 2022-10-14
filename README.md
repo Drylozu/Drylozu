@@ -11,5 +11,5 @@
 </div>
 
 <hr />
-<div align="center"><i>“Qué tanto puede afectar este status en la relación?”</i></div>
-<div align="center"><i>- Arturo Andre Morales Espinar ~ 2022 (2004) -</i></div>
+<div align="center"><i>“ Si la vida se deja, yo le meto mano…”</i></div>
+<div align="center"><i>- Hernan Jacamo ~ 2022 (2005) -</i></div>
