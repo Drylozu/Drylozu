@@ -12,4 +12,4 @@
 
 <hr />
 <div align="center"><i>“Si la vida se deja, yo le meto mano…”</i></div>
-<div align="center"><i>- Hernan Jacamo ~ 2022 (2005) -</i></div>
+<div align="center"><i>- Hernán Jacamo ~ 2022 (2005) -</i></div>
