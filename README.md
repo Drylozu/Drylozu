@@ -7,7 +7,7 @@
 <!--- ![Skills](https://skillicons.dev/icons?i=stackoverflow,vscode,bash,cloudflare,flutter,dart,eclipse,electron,express,figma,github,graphql,idea,mongodb,netlify,ps,py,raspberrypi,react,redis,regex,tailwind,nextjs,nodejs,ts,go,html,css,discord,bots,docker,nginx,ruby,arduino&perline=12) ---->
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=stackoverflow,vscode,bash,cloudflare,flutter,dart,eclipse,electron,express,figma,github,graphql,idea,mongodb,netlify,ps,py,raspberrypi,react,redis,regex,tailwind,nextjs,nodejs,ts,go,html,css,discord,bots,docker,nginx,ruby,arduino&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=stackoverflow,vscode,bash,cloudflare,flutter,dart,eclipse,electron,express,figma,github,graphql,idea,mongodb,netlify,ps,py,raspberrypi,react,redis,regex,tailwind,nextjs,nodejs,ts,rust,go,html,css,discord,bots,docker,nginx,ruby,arduino&perline=9"/>
 </div>
 
 <hr />
